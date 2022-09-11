@@ -11,7 +11,7 @@ namespace TheList.TechnicalChallenge.Exceptions
 
         public string Code { get; } = "validation_error";
 
-        public IDictionary<string, string[]> Failures { get; private set; }
+        public IDictionary<string, string[]> Failures { get; private set; } = new Dictionary<string, string[]>();
         public CustomValidationException() : this(DefaultMessage)
         {
         }

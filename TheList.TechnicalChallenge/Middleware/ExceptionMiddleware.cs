@@ -34,7 +34,7 @@ namespace TheList.TechnicalChallenge.Middleware
                 switch (ex)
                 {
                     case CustomValidationException validationException:
-                        var failedValidations = string.Join(",", validationException.Failures.Select(kv => kv.Key + "=" + string.Join(";", kv.Value)).ToArray());
+                        var failedValidations = string.Join(",", validationException?.Failures?.Select(kv => kv.Key! + "=" + string.Join(";", kv.Value!))?.ToArray());
                         _logger.LogError(new EventId(500), ex, $"Validation Result: {failedValidations}");
                         break;
                     default:

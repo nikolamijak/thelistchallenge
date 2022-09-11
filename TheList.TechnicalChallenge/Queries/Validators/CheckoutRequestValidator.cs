@@ -3,10 +3,10 @@ using TheList.TechnicalChallenge.Queries.Requests;
 
 namespace TheList.TechnicalChallenge.Queries.Validators
 {
-    public class DataTransferMessageValidator
+    public class CheckoutRequestValidator
           : AbstractValidator<CheckoutRequest>
     {
-        public DataTransferMessageValidator()
+        public CheckoutRequestValidator()
         {
             ClassLevelCascadeMode = CascadeMode.Continue;
 

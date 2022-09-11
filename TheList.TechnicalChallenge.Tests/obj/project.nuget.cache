@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3ejMq+d0ofiUxZHia8+sgpH+I32OZ20Sov+fJ1U4o93f4YOE1NiZnmAjVL9c/2wxKa0bVSzNMu84/HubPAJWHw==",
+  "dgSpecHash": "w3xiCD2S0aceutKtoCHK9D0lQMZOX2lF8+Fe/Y8JhIAhS0nvJWIZzFZ+vyERG785IpX1hi1Nr3sx/QzQgm6boQ==",
   "success": true,
   "projectFilePath": "C:\\code_books\\code\\thelistchallenge\\TheList.TechnicalChallenge.Tests\\TheList.TechnicalChallenge.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NikolaMijakovski\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
+    "C:\\Users\\NikolaMijakovski\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\NikolaMijakovski\\.nuget\\packages\\coverlet.msbuild\\3.1.0\\coverlet.msbuild.3.1.0.nupkg.sha512",
     "C:\\Users\\NikolaMijakovski\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
     "C:\\Users\\NikolaMijakovski\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\NikolaMijakovski\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

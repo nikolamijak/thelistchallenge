@@ -340,3 +340,4 @@ C:\code_books\code\thelistchallenge\TheList.TechnicalChallenge.Tests\obj\Debug\n
 C:\code_books\code\thelistchallenge\TheList.TechnicalChallenge.Tests\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Tests.dll
 C:\code_books\code\thelistchallenge\TheList.TechnicalChallenge.Tests\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Tests.pdb
 C:\code_books\code\thelistchallenge\TheList.TechnicalChallenge.Tests\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Tests.genruntimeconfig.cache
+C:\code_books\code\thelistchallenge\TheList.TechnicalChallenge.Tests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
