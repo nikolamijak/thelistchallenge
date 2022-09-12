@@ -1,14 +1,10 @@
 ﻿using FluentValidation.Results;
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http;
 using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Primitives;
 using Moq;
 using System;
 using System.Collections.Generic;
 using System.Net;
-using System.Reflection.PortableExecutable;
-using System.Text;
 using System.Threading.Tasks;
 using TheList.TechnicalChallenge.Exceptions;
 using TheList.TechnicalChallenge.Middleware;
